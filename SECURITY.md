@@ -1,5 +1,5 @@
 # Security Policy
-
+CC BY-NC-SA 3.0 GR
 ## Supported Versions
 
 Use this section to tell people about which versions of your project are
