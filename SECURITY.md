@@ -1,5 +1,6 @@
 # Security Policy
-CC BY-NC-SA 3.0 GR
+ Creative Commons 
+Αναφορά Δημιουργού - Μη Εμπορική Χρήση - Παρόμοια Διανομή 3.0 Ελλάδα (CC BY-NC-SA 3.0 GR).
 ## Supported Versions
 
 Use this section to tell people about which versions of your project are
